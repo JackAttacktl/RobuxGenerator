@@ -1,0 +1,16 @@
+- The generator doesn't start up!
++ Make sure anti-virus isn't interfearing with it, or make sure you have Redist (The correct version) installed.
+
+- Error Code 0x0000001
++ I have not came up with the error code yet, zip up the entire folder and send it to me for debuging.
+
+- Error code 0x4235953
++ One of the DLLs are missing, redownload the generator.
+
+- Error code 0xc439523
++ Your firewall is blocking access to the server.
+
+- I can't move / delete the folder/exe!
++ This is a common bug, open task manager via CTRL+ALT+DELETE, or CTRL+SHIFT+ESC, and end the proccess.
+
+If your error is not in here, contact the developer!

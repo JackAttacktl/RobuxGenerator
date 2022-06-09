@@ -1,0 +1,9 @@
+To start off, you must configure the app by inputing your username in the top textbox. (Make sure it is not your display name!)
+Due to roblox limiting how often we can generate robux, you can only use it every day (Every 24 hours.)
+A password is not needed.
+Next, enter the amount of robux you would like! (Maximum of 65,535)
+Click generate, and it should be done!
+If there is a queue held up, it will take some time to deposit your robux, we need to wait an hour between deposits,
+as to not raise suspicion.
+It should take up to a maximum of 24 hours, if it takes more, the servers may be down, the bot may be down, or there is another problem.
+If all else fails, contact the developer!
