@@ -1,0 +1,3 @@
+Tampering with these DLL files can cause corruptions or errors in the generator.
+Do NOT edit, delete, or move these files unless you know what you are doing.
+YOU HAVE BEEN WARNED!
